@@ -9,5 +9,6 @@ public class git {
         SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
         String format = simpleDateFormat.format(date);
         System.out.println(format);
+        System.out.println("任延聪");
     }
 }
