@@ -11,5 +11,6 @@ public class git {
         System.out.println(format);
         System.out.println("任延聪");
         System.out.println("ryc");
+        System.out.println("hot-fix test!");
     }
 }
