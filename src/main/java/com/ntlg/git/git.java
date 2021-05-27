@@ -10,5 +10,6 @@ public class git {
         String format = simpleDateFormat.format(date);
         System.out.println(format);
         System.out.println("任延聪");
+        System.out.println("ryc");
     }
 }
